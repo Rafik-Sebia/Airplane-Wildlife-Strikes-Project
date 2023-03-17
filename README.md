@@ -18,4 +18,4 @@ Make a dashboard using Federal Aviation Administration (FAA) data on collisions 
 
 ### Dashboard
 
-<kbd><img width="1425" alt="Screenshot 2022-05-18 at 2 54 25 PM" src="https://user-images.githubusercontent.com/81607668/168976440-2a4ceb9f-2459-4b44-91eb-c31e6c526393.png"></kbd>
+![Airplane Wildlife Strikes Project](https://user-images.githubusercontent.com/113290016/225968089-9ebdf227-0704-4963-a6c3-21e969ac8fe7.png)
