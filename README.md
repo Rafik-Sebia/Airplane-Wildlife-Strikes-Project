@@ -11,7 +11,7 @@ Make a dashboard using Federal Aviation Administration (FAA) data on collisions 
 - 94.7% out of over 28,000 wildlife strikes on airplanes recorded between 2001-2015 ended up costing airlines and airports $0 in aircraft repairs.
 - The remaining 5.3% of collisions account for over $100 billion of damage in addition to the countless animal deaths incurred by collisions.
 - The LaGuardia Airport in New York sustained the highest amount of damage with $42,215,875.
-- The Dallas/Fort Worth Internationl Airport in Texas has sustained the highest number of strikes with 877 strike.
+- The Dallas/Fort Worth Internationl Airport in Texas has sustained the highest number of strikes with 877 strikes.
 
 ### Posted in
 - Tableau Public: [Link](https://public.tableau.com/app/profile/mohamed.rafik.sebia/viz/CapstoneProjectAirplaneWildlifeStrikes_16760262602620/Dashboard1)
